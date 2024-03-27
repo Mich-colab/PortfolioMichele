@@ -1,4 +1,4 @@
-# Data Analyst 
+# Data Analyst
 
 ## Compétences: Python, SQL, Power BI, Tableau, PySpark, Excel
 
