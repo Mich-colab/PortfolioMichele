@@ -1,4 +1,3 @@
-# Présentation Projets Github
 # Data Analyst 
 
 ## Compétences: Python, SQL, Power BI, Tableau, PySpark, Excel
