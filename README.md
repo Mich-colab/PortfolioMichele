@@ -26,9 +26,10 @@ Projet1: Données Ventes
 Projet2: Données Centres d'appels
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20donn%C3%A9es%20Centre%20d'appels.pbix)
 
-Importation, nettoyage de données et modélisation via PowerQuery 
-Création de table de dates
-Visualisation des données
+- Importation, nettoyage de données et modélisation via PowerQuery 
+- Création de table de dates
+- Mesures langages DAX
+- Visualisation des données
 
 ### Analyse de sentiment Avis clients Amazon
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/TextMining/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
