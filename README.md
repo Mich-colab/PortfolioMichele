@@ -11,7 +11,7 @@
   
 ## Projects
 ### Projet E-commerce Kmeans
-[Publication](Apprentissage_non_supervisé/Analyses données et clustering site E-commerce.ipynb)
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Apprentissage_non_supervis%C3%A9/Analyses%20donn%C3%A9es%20et%20clustering%20site%20E-commerce.ipynb)
 
 L'analyse des comportements des utilisateurs d'un site internet (données issus de Kaggles):
   - Pré-processing et nettoyage des données
