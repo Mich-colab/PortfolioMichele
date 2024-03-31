@@ -11,16 +11,20 @@
   
 ## Projects
 ### Projet E-commerce Kmeans
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Analyses%20donn%C3%A9es%20et%20clustering%20Kmeans_site%20E-commerce.ipynb)
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Analyses%20donn%C3%A9es%20et%20clustering%20site%20E-commerce.ipynb)
 
 L'analyse des comportements des utilisateurs d'un site internet (données issus de Kaggles):
   - Pré-processing et nettoyage des données
   - clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs au comportement similaire
   - descriptif de ces groupes
 
-### Modélisation et Visualisation de données de vente avec PowerBI Analyse
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es.pptx)
+### Modélisation et Visualisation de données de vente avec PowerBI
 
+Projet1: Données Ventes
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es%20Ventes.pbix)
+
+Projet2: Données Centres d'appels
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Projet%20PowerBI%20Analyse%20donn%C3%A9es%20Centre%20d'appels.pbix)
 Importation, nettoyage de données et modélisation via PowerQuery 
 Création de table de dates
 Visualisation des données
