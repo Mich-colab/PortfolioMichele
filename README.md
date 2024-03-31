@@ -21,16 +21,16 @@ L'analyse des comportements des utilisateurs d'un site internet (données issus 
 ### Modélisation et Visualisation de données de vente avec PowerBI
 
 Projet1: Données Ventes
-[Publication](Power_BI/Projet PowerBI Analyse de données Ventes.pbix)
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es%20Ventes.pbix)
 
 Projet2: Données Centres d'appels
-[Publication](Power_BI/Projet PowerBI Analyse données Centre d'appels.pbix)
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20donn%C3%A9es%20Centre%20d'appels.pbix)
 Importation, nettoyage de données et modélisation via PowerQuery 
 Création de table de dates
 Visualisation des données
 
 ### Analyse de sentiment Avis clients Amazon
-[Publication](TextMining/Text Mining_Avis sur Amazon.ipynb) 
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/TextMining/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
 
 Textmining analyse de sentiment sur près de 5000 avis laissés sur Amazon après l'achat d'un téléphone SAMSUNG
 
