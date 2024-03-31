@@ -11,7 +11,7 @@
   
 ## Projects
 ### Projet E-commerce Kmeans
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Analyses%20donn%C3%A9es%20et%20clustering%20site%20E-commerce.ipynb)
+[Publication](Apprentissage_non_supervisé/Analyses données et clustering site E-commerce.ipynb)
 
 L'analyse des comportements des utilisateurs d'un site internet (données issus de Kaggles):
   - Pré-processing et nettoyage des données
@@ -21,16 +21,16 @@ L'analyse des comportements des utilisateurs d'un site internet (données issus 
 ### Modélisation et Visualisation de données de vente avec PowerBI
 
 Projet1: Données Ventes
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es%20Ventes.pbix)
+[Publication](Power_BI/Projet PowerBI Analyse de données Ventes.pbix)
 
 Projet2: Données Centres d'appels
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Projet%20PowerBI%20Analyse%20donn%C3%A9es%20Centre%20d'appels.pbix)
+[Publication](Power_BI/Projet PowerBI Analyse données Centre d'appels.pbix)
 Importation, nettoyage de données et modélisation via PowerQuery 
 Création de table de dates
 Visualisation des données
 
 ### Analyse de sentiment Avis clients Amazon
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
+[Publication](TextMining/Text Mining_Avis sur Amazon.ipynb) 
 
 Textmining analyse de sentiment sur près de 5000 avis laissés sur Amazon après l'achat d'un téléphone SAMSUNG
 
