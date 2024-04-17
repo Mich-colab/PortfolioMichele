@@ -1,8 +1,7 @@
-## Bienvenue sur cette page qui résume mes projets data
+# Bienvenue sur cette page qui résume mes projets data
 
 ## Compétences: Python, SQL, Power BI, Tableau, PySpark, Excel
   
-## Mes Projets
 ### Projet Requêtes SQL
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/SQL/Projet_Requ%C3%AAtes_SQL.ipynb)
 
