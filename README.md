@@ -2,7 +2,7 @@
 
 ## Compétences: Python, SQL, Power BI, Tableau, PySpark, Excel
   
-## Projects
+## Mes Projets
 ### Projet Requêtes SQL
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/SQL/Projet_Requ%C3%AAtes_SQL.ipynb)
 Ce Projet consiste à lancer des **requêtes SQL** sur des données CRM (pipeline de vente B2B) d'une entreprise qui vend du matériel informatique. 
