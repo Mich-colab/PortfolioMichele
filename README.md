@@ -21,6 +21,12 @@ Projet2: Données Centres d'appels
 - Mesures langages DAX
 - Visualisation des données
 
+### Projet Clustering CAH
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Projet%20clustering%20CAH%20Chocolats.ipynb)
+
+Identification des segments de marques/appellations en fonction des valeurs nutritionnelles et du type de chocolat.
+L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
+
 ### Projet E-commerce Kmeans
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Analyses%20donn%C3%A9es%20et%20clustering%20Kmeans.ipynb)
 
@@ -28,12 +34,6 @@ L'analyse des comportements des utilisateurs d'un site internet (données issus 
   - Pré-processing et nettoyage des données
   - clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs au comportement similaire
   - descriptif de ces groupes
-
-### Projet Clustering CAH
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Projet%20clustering%20CAH%20Chocolats.ipynb)
-
-Identification des segments de marques/appellations en fonction des valeurs nutritionnelles et du type de chocolat.
-L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
 
 ### Analyse de sentiment Avis clients Amazon
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/TextMining/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
