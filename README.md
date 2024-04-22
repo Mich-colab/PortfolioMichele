@@ -8,6 +8,19 @@
 Ce Projet consiste à lancer des **requêtes SQL** pour analyser des données CRM (pipeline de vente B2B) d'une entreprise qui vend du matériel informatique. 
 L'objectif est de monter la capacité à requêter les bases de données SQL pour des besoins métiers: des requêtes les plus simples au plus avancées.
 
+### Modélisation et Visualisation de données avec PowerBI
+
+Projet1: Données Ventes
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es%20Ventes.pbix)
+
+Projet2: Données Centres d'appels
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20donn%C3%A9es%20Centre%20d'appels.pbix)
+
+- Importation, nettoyage de données et modélisation via PowerQuery 
+- Création de table de dates
+- Mesures langages DAX
+- Visualisation des données
+
 ### Projet E-commerce Kmeans
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Analyses%20donn%C3%A9es%20et%20clustering%20Kmeans.ipynb)
 
@@ -21,19 +34,6 @@ L'analyse des comportements des utilisateurs d'un site internet (données issus 
 
 Identification des segments de marques/appellations en fonction des valeurs nutritionnelles et du type de chocolat.
 L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
-
-### Modélisation et Visualisation de données avec PowerBI
-
-Projet1: Données Ventes
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es%20Ventes.pbix)
-
-Projet2: Données Centres d'appels
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20donn%C3%A9es%20Centre%20d'appels.pbix)
-
-- Importation, nettoyage de données et modélisation via PowerQuery 
-- Création de table de dates
-- Mesures langages DAX
-- Visualisation des données
 
 ### Analyse de sentiment Avis clients Amazon
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/TextMining/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
