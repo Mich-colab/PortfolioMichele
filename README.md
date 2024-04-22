@@ -11,6 +11,7 @@ L'objectif est de monter la capacité à requêter les bases de données SQL pou
 ### Modélisation et Visualisation de données avec PowerBI
 
 **Après avoir cliqué sur "Publication" sur cette page, le dossier du projet s'ouvre sur github. Les .pbix ne s'affichant pas sur github, vous devez les télécharger. Il suffit pour cela de cliquer "View Raw".**
+
 Projet1: Données Ventes
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Power_BI/Projet%20PowerBI%20Analyse%20de%20donn%C3%A9es%20Ventes.pbix)
 
