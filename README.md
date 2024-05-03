@@ -41,6 +41,10 @@ L'analyse des comportements des utilisateurs d'un site internet (données issus 
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/TextMining/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
 
 Textmining analyse de sentiment sur près de 5000 avis laissés sur Amazon après l'achat d'un téléphone SAMSUNG
+Quels sont les mots clés qui reviennent le plus souvent : les principaux tokens de l'ensemble de ces avis laissés ?
+Est-ce que ce sont des avis à connotation négative ? positive ?
+Est-ce que ces tokens sont en accord avec la note de satisfaction globale attribuée ?
+
 
 ## Formations
 - **Data Analyst** | Executive Education **DataScientest** 
