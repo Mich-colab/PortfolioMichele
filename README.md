@@ -34,7 +34,7 @@ L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
 
 L'analyse des comportements des utilisateurs d'un site internet (données issues de Kaggles et réparties en 4 fichiers avec des millions de lignes):
   - Pré-processing et nettoyage des données
-  - clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs au comportement similaire
+  - clustering grâce à la méthode Kmeans pour identifier des groupes d'acheteurs au comportement similaire
   - descriptif de ces groupes
 
 ### Analyse de sentiment Avis clients Amazon
