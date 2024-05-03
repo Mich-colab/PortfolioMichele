@@ -32,7 +32,7 @@ L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
 ### Projet E-commerce Kmeans
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Analyses%20donn%C3%A9es%20et%20clustering%20Kmeans.ipynb)
 
-L'analyse des comportements des utilisateurs d'un site internet (données issus de Kaggles):
+L'analyse des comportements des utilisateurs d'un site internet (données issues de Kaggles et réparties en 4 fichiers avec des millions de lignes):
   - Pré-processing et nettoyage des données
   - clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs au comportement similaire
   - descriptif de ces groupes
