@@ -1,7 +1,7 @@
 # Bienvenue sur cette page qui présente mon parcours et mes projets en data
 
 ## Compétences: R, Python, SQL, Power BI, Tableau, Excel 
-  ![image](https://github.com/Mich-colab/PortfolioMichele/assets/149393932/bad76229-0755-43dd-931d-bb6615f6f619)
+ 
 
 ### Projet Requêtes SQL
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/SQL/Projet_Requ%C3%AAtes_SQL.ipynb)
