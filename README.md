@@ -56,7 +56,6 @@ Est-ce que ces tokens sont en accord avec la note de satisfaction globale attrib
 
 ## Experiences
 **Analyste BI & Statistique | Kantar Division Wordpanel | Depuis mai 2024**
-Compétences et missions clés
 - Développement de solutions BI (Power BI) :
 conception et automatisation des flux de données (Power Query / M),
 modélisation des datasets et création de mesures (DAX),
