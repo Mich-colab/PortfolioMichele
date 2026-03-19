@@ -55,7 +55,20 @@ Est-ce que ces tokens sont en accord avec la note de satisfaction globale attrib
   Université de Cergy Pontoise, Cergy - 09.2012 / 09.2013
 
 ## Experiences
-**Chargée d’études | Kantar Division Wordpanel | Depuis septembre 2017**
+**Analyste BI & Statistique | Kantar Division Wordpanel | Depuis mai 2024**
+Compétences et missions clés
+- Développement de solutions BI (Power BI) :
+conception et automatisation des flux de données (Power Query / M),
+modélisation des datasets et création de mesures (DAX),
+développement et maintenance de dashboards interactifs,
+déploiement dans Power BI Service (via les applications et espace de travail).
+Utilisation complémentaire des datasets dans Excel pour des besoins métiersspécifiques.
+- Maintenance et amélioration continue :
+Réalisation de tests, optimisation des performances, résolution d’anomalies, gestiondes accès, des audiences et des espaces de travail pour une diffusion maîtrisée etsécurisée des rapports.
+- Analyses statistiques (R / Python) :
+Réalisation d’analyses statistiques telles que régressions, tests de corrélation etclassifications ascendantes hiérarchiques (CAH), afin d’explorer, modéliser etinterpréter des données massives pour éclairer la prise de décision stratégique.
+
+**Chargée d’études | Kantar Division Wordpanel | septembre 2017 à avril 2024**
 - Extraction de données via l'outil de visualisation interne pour les bilans annuels et problématiques ponctuelles.  
 - Suivi des indicateurs de performances des marques
   Choix des KPI en fonction des problématiques clients
