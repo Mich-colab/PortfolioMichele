@@ -1,6 +1,6 @@
-# Bienvenue sur cette page qui résume mon parcours et projets data
+# Bienvenue sur cette page qui présente mon parcours et mes projets en data
 
-## Compétences: Python, SQL, Power BI, Tableau, Excel 
+## Compétences: R, Python, SQL, Power BI, Tableau, Excel 
   ![image](https://github.com/Mich-colab/PortfolioMichele/assets/149393932/bad76229-0755-43dd-931d-bb6615f6f619)
 
 ### Projet Requêtes SQL
@@ -8,6 +8,20 @@
 
 Ce Projet consiste à lancer des **requêtes SQL** pour analyser des données CRM (pipeline de vente B2B) d'une entreprise qui vend du matériel informatique. 
 L'objectif est de monter la capacité à requêter les bases de données SQL pour des besoins métiers: des requêtes les plus simples au plus avancées.
+
+### Projet Clustering CAH
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Projet%20clustering%20CAH%20Chocolats.ipynb)
+
+Identification des segments de marques/appellations en fonction des valeurs nutritionnelles et du type de chocolat.
+L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
+
+### Projet E-commerce Kmeans
+[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Analyses%20donn%C3%A9es%20et%20clustering%20Kmeans.ipynb)
+
+L'analyse des comportements des utilisateurs d'un site internet (données issues de Kaggles et réparties en 4 fichiers avec des millions de lignes):
+  - Pré-processing et nettoyage des données
+  - clustering grâce à la méthode Kmeans pour identifier des groupes d'acheteurs au comportement similaire
+  - descriptif de ces groupes
 
 ### Modélisation et Visualisation de données avec PowerBI
 
@@ -23,20 +37,6 @@ Projet2: Données Centres d'appels
 - Création de table de dates
 - Mesures langages DAX
 - Visualisation des données
-
-### Projet Clustering CAH
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Projet%20clustering%20CAH%20Chocolats.ipynb)
-
-Identification des segments de marques/appellations en fonction des valeurs nutritionnelles et du type de chocolat.
-L'objectif est de mieux adresser les cibles/ de réorganiser au besoin le rayon.
-
-### Projet E-commerce Kmeans
-[Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/Maching_Learning/Analyses%20donn%C3%A9es%20et%20clustering%20Kmeans.ipynb)
-
-L'analyse des comportements des utilisateurs d'un site internet (données issues de Kaggles et réparties en 4 fichiers avec des millions de lignes):
-  - Pré-processing et nettoyage des données
-  - clustering grâce à la méthode Kmeans pour identifier des groupes d'acheteurs au comportement similaire
-  - descriptif de ces groupes
 
 ### Analyse de sentiment Avis clients Amazon
 [Publication](https://github.com/Mich-colab/Projets-Michele/blob/main/TextMining/Text%20Mining_Avis%20sur%20Amazon.ipynb) 
